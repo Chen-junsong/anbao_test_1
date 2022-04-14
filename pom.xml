@@ -17,6 +17,7 @@
         </dependency>
     </dependencies>
 
+    <--打包jar包-->
     <build>
         <plugins>
             <plugin>
