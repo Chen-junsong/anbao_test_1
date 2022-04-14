@@ -1,0 +1,17 @@
+
+G
+java:S3599",Use another way to initialize this instance.(âñÇ—8™—ÜÍô/
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(÷ƒ€‚8™—ÜÍô/
+y
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8™—ÜÍô/
+y
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8™—ÜÍô/
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ı¿”ûÿÿÿÿ8ÍÇÊÍô/
+a
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ü•Û¬şÿÿÿÿ8›ÕÓÍô/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢çƒÇ8ÍÇÊÍô/
+–
+java:S1598"{This file "ArtemisTest.java" should be located in "ga" directory, not in "D:\anbao_test_1\src\main\java\com\unipower\test".(À—¨¶8…˜ÁÍô/
+G
+java:S3599",Use another way to initialize this instance.(ñÁ©8™—ÜÍô/
